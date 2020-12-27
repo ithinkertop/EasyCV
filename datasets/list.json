@@ -1,0 +1,117 @@
+{
+    "OTB": {
+        "path": "/datasets/OTB",
+        "type": "Tracking",
+        "description": "OTB2013/OTB2015/OTB50/OTB100"
+    },
+    "TColor128": {
+        "path": "/datasets/TColor128",
+        "type": "Tracking",
+        "description": "不常用，"
+    },
+    "Nfs": {
+        "path": "/datasets/Nfs",
+        "type": "Tracking",
+        "description": "不常用， 高帧率数据集"
+    },
+    "UAV123": {
+        "path": "/datasets/UAV123",
+        "type": "Tracking",
+        "description": "无人机数据集, 常用"
+    },
+    "DTB70": {
+        "path": "/datasets/DTB70",
+        "type": "Tracking",
+        "description": "无人机数据集，不常用"
+    },
+    "UAVDT": {
+        "path": "/datasets/UAVDT",
+        "type": "Tracking",
+        "description": "无人机数据集，不常用"
+    },
+    "VisDrone2019": {
+        "path": "/datasets/VisDrone2019",
+        "type": "Tracking",
+        "description": "无人机数据集, 热度低"
+    },
+    "LaSOT": {
+        "path": "/datasets/LaSOT",
+        "type": "Tracking",
+        "description": "200G+, 目标跟踪训练, SiamDW, SiamFC++"
+    },
+    "GOT10k": {
+        "path": "/datasets/GOT10k",
+        "type": "Tracking",
+        "description": "60G+, 目标跟踪训练"
+    },
+    "YTB&VID": {
+        "path": "/datasets/YTB&VID",
+        "type": "Tracking",
+        "description": "SiamRPN"
+    },
+    "ILSVRC2015 VID": {
+        "path": "/datasets/ILSVRC2015 VID",
+        "type": "Detection",
+        "description": "SiamFC, SiamRPN++, SiamMask, SiamDW, SiamFCpp"
+    },
+    "ILSVRC2015 DET": {
+        "path": "/datasets/ILSVRC2015 DET",
+        "type": "Detection",
+        "description": "SiamRPN++, SiamMask, SiamDW, SiamFC++"
+    },
+    "YTB-Crop511": {
+        "path": "/datasets/YTB-Crop511",
+        "type": "Detection",
+        "description": "SiamRPN++, SiamMask, SiamDW, SiamFC++"
+    },
+    "COCO": {
+        "path": "/datasets/COCO",
+        "type": "Detection",
+        "description": "SiaRPN++, SiamMask, SiamDW, SiamFC++"
+    },
+    "YTB-VOS": {
+        "path": "/datasets/YTB-VOS",
+        "type": "Tracking",
+        "description": "SiamMask"
+    },
+    "DAVIS2017": {
+        "path": "/datasets/DAVIS2017",
+        "type": "Segmentation",
+        "description": "SiamMask"
+    },
+    "TrackingNet": {
+        "path": "/datasets/TrackingNet",
+        "type": "Tracking",
+        "description": "1T 非常大,SiamFC"
+    },
+    "VOT2015": {
+        "path": "/datasets/VOT2015",
+        "type": "Tracking",
+        "description": "太旧"
+    },
+    "VOT2016": {
+        "path": "/datasets/VOT2016",
+        "type": "Tracking",
+        "description": "太旧"
+    },
+    "VOT2017": {
+        "path": "/datasets/VOT2017",
+        "type": "Tracking",
+        "description": "太旧"
+    },
+    "VOT2018": {
+        "path": "/datasets/VOT2018",
+        "type": "Tracking",
+        "description": "可以"
+    },
+    "VOT2019": {
+        "path": "/datasets/VOT2019",
+        "type": "Tracking",
+        "description": "可以"
+    },
+    "VOT2020": {
+        "path": "/datasets/VOT2020",
+        "type": "Tracking",
+        "description": "可以"
+    }
+}
