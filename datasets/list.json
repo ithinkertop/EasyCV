@@ -113,5 +113,10 @@
         "path": "/datasets/VOT2020",
         "type": "Tracking",
         "description": "可以"
+    },
+    "VOT2021": {
+        "path": "/datasets/VOT2021",
+        "type": "Tracking",
+        "description": "可以"
     }
 }
